@@ -1,0 +1,24 @@
+{
+  "name": "redux-pre-post-action-middleware",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "author": {
+    "name": "sliv",
+    "email": "sliv.mbp@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "nr",
+    "build:publish": "nr",
+    "clean": "nr"
+  },
+  "devDependencies": {
+    "redux": "^3.7.1"
+  },
+  "readme": "ERROR: No README data found!"
+}
